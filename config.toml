@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://thriving-caramel-51cd39.netlify.app"
 languageCode = "en-us"
 title = "Fala Mais Alto"
 theme = "apsho"
